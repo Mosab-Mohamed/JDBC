@@ -1,0 +1,17 @@
+<list>
+  <DBMS.Column>
+    <name>ItemID</name>
+    <DataType>int</DataType>
+    <size>0</size>
+  </DBMS.Column>
+  <DBMS.Column>
+    <name>Name</name>
+    <DataType>varchar</DataType>
+    <size>255</size>
+  </DBMS.Column>
+  <DBMS.Column>
+    <name>Price</name>
+    <DataType>int</DataType>
+    <size>0</size>
+  </DBMS.Column>
+</list>
